@@ -39,6 +39,8 @@ ___
 - [Github으로 한방에 프로젝트 관리하기](https://github.com/cheese10yun/github-project-management)
 - [Code를 이쁘게 저장해보자 (1), Carbon](https://carbon.now.sh/)
 - [How to make Web Project](https://mishacreatrix.medium.com/design-a-website-from-scratch-in-7-steps-bf3e0ab1972)
+- [Window에 WSL2 적용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-71401661.html)
+- [유용한 생산성 Tool](https://velog.io/@chris/introducing-useful-productivity-tools)
 ___ 
 ### Ⅳ. VCS
 - [Github 활용 끝판왕 모음!!](https://github.com/cheese10yun/dev-info)
@@ -104,6 +106,10 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)
 - [Android 개발자 공식 사이트](https://developer.android.com/)
 - [모바일 앱 디자인을 위한 9가지 원칙](https://www.uxpin.com/studio/blog/principles-mobile-app-design/)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5141)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (안드로이드 (코틀린))](https://wikidocs.net/book/5142)
+- [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (아이폰 (스위프트))](https://wikidocs.net/book/5144)
+- [토닥토닥 티처블 머신 - 티처블 머신 인공지능 앱 만들기 (안드로이드 (자바))](https://wikidocs.net/book/5827)
 
 ##### ⅴ. 머신러닝 & 데이터 분석
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
@@ -112,10 +118,11 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Kaggle](https://www.kaggle.com/)
 - [AI Hub](https://aihub.or.kr/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [데이터 분석 강의사이트 모음]
+- [인공지능 웹앱 만들기 wikidocs](https://wikidocs.net/book/4781)  
 
-##### ⅵ. AWS
+##### ⅵ. AWS / Network, Hosting
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
+- [FireBase Hosting 쉽게 시작하기](https://blog.naver.com/varkiry05/221206143576)
 
 ##### ⅶ. All of Design
 - [Designer들만의 세상](https://www.behance.net/)
